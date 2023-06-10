@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/SmartMania/static/css/main.dbd16ab9.css",
+    "main.js": "/SmartMania/static/js/main.57ad0d5f.js",
+    "static/media/promo.png": "/SmartMania/static/media/promo.f79497a1ce035e078197.png",
+    "static/media/newFondo.webp": "/SmartMania/static/media/newFondo.814295810707d6cfdc95.webp",
+    "static/media/logo.svg": "/SmartMania/static/media/logo.6074ffbaa74e8bad189bc02a5e3483aa.svg",
+    "static/media/android.svg": "/SmartMania/static/media/android.0cfd7fe2594587d29723d6aa0cae8dc9.svg",
+    "index.html": "/SmartMania/index.html",
+    "static/media/cellphone.svg": "/SmartMania/static/media/cellphone.7f72ca966b856f9dea40d427cc0ba122.svg",
+    "static/media/ram.svg": "/SmartMania/static/media/ram.6b47545257ea2a57bf316a7437a296d5.svg",
+    "static/media/procesador.svg": "/SmartMania/static/media/procesador.ec08038d69b7840f7c550435f44804f4.svg",
+    "static/media/memoriaInterna.svg": "/SmartMania/static/media/memoriaInterna.c6ee0117db92b4f226d05cc9f57b7675.svg",
+    "static/media/memoriaExpandible.svg": "/SmartMania/static/media/memoriaExpandible.69b42441449692169205c815950ec31d.svg",
+    "static/media/file-return.svg": "/SmartMania/static/media/file-return.2c5197dd65e6a5a5d144beac7a4c5923.svg",
+    "static/media/x-circle.svg": "/SmartMania/static/media/x-circle.3bcfd9adc381b7775fc345c02801fe04.svg",
+    "static/media/size.svg": "/SmartMania/static/media/size.420ca7954706d0319d9b5ae3aa4d6b00.svg",
+    "static/media/camara.svg": "/SmartMania/static/media/camara.46c52ec984dff95a2479ec561b84231e.svg",
+    "static/media/file-plus.svg": "/SmartMania/static/media/file-plus.d69f74b5fc67a0579ef0474558e02ac2.svg",
+    "static/media/bateria.svg": "/SmartMania/static/media/bateria.257841ddd532689e5cdd935895c8e85b.svg",
+    "static/media/peso.svg": "/SmartMania/static/media/peso.dfbe9e0f72f7f2c0e0e470696e831107.svg",
+    "main.dbd16ab9.css.map": "/SmartMania/static/css/main.dbd16ab9.css.map",
+    "main.57ad0d5f.js.map": "/SmartMania/static/js/main.57ad0d5f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dbd16ab9.css",
+    "static/js/main.57ad0d5f.js"
+  ]
+}
